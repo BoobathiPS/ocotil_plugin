@@ -1,0 +1,22 @@
+{
+  "name": "ocotil",
+  "version": "1.0.0",
+  "description": "cordova plugin ocotil custom created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boobathi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoobathiPS/ocotil_plugin.git"
+  },
+  "keywords": [
+    "ocotil"
+  ],
+  "bugs": {
+    "url": "https://github.com/BoobathiPS/ocotil_plugin/issues"
+  },
+  "homepage": "https://github.com/BoobathiPS/ocotil_plugin#readme"
+}
